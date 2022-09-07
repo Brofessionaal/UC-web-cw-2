@@ -1,0 +1,12 @@
+h1{color: brown ; text-align: center;}
+h2{ background-color: rgb(83, 152, 69);
+}
+h3{
+    background-color: aqua;
+}
+p{background-color: blue;
+}
+.card{ width: 500px; text-align: center;background-color: rgb(163, 111, 111);}
+#dish-name{
+    color: white; 
+}
